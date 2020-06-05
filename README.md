@@ -278,12 +278,12 @@ Refer to https://www.linux.org/threads/xdotool-keyboard.10528/ for a complete li
 - [KDE Keyboard Shortcuts](https://community.linuxmint.com/tutorial/view/47)
 - [PopOS Keyboard Shortcuts](https://support.system76.com/articles/pop-keyboard-shortcuts/)
 
-## Known Issues: Pop!_OS 20.04+
+## Known Issues: Pop!_OS and Ubuntu 20.04+
 
-Pop!_OS 20.04+ may be sensitive to capitalization  (#76, #82). Make sure to capitalize every first letter:
+Pop!_OS and Ubuntu 20.04+ may be sensitive to capitalization  (#76, #82). Make sure to capitalize every first letter:
 
 ```bash
-# Pop!_OS
+# Pop!_OS or Ubuntu
 comfortable-swipe up3 = Super+Ctrl+Down
 comfortable-swipe down3 = Super+Ctrl+Up
 ```
